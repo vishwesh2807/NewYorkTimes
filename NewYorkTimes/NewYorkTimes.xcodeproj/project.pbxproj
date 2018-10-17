@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B4B091D42176F94E008776E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4B091D32176F94E008776E5 /* AppDelegate.swift */; };
-		B4B091D62176F94E008776E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4B091D52176F94E008776E5 /* ViewController.swift */; };
+		B4B091D62176F94E008776E5 /* MostPopularViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4B091D52176F94E008776E5 /* MostPopularViewController.swift */; };
 		B4B091D92176F94E008776E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4B091D72176F94E008776E5 /* Main.storyboard */; };
 		B4B091DB2176F950008776E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4B091DA2176F950008776E5 /* Assets.xcassets */; };
 		B4B091DE2176F950008776E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4B091DC2176F950008776E5 /* LaunchScreen.storyboard */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		B4B091D02176F94E008776E5 /* NewYorkTimes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewYorkTimes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4B091D32176F94E008776E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B4B091D52176F94E008776E5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B4B091D52176F94E008776E5 /* MostPopularViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostPopularViewController.swift; sourceTree = "<group>"; };
 		B4B091D82176F94E008776E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B4B091DA2176F950008776E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4B091DD2176F950008776E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -98,7 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				B4B091D32176F94E008776E5 /* AppDelegate.swift */,
-				B4B091D52176F94E008776E5 /* ViewController.swift */,
+				B4B091D52176F94E008776E5 /* MostPopularViewController.swift */,
 				B4B091D72176F94E008776E5 /* Main.storyboard */,
 				B4B091DA2176F950008776E5 /* Assets.xcassets */,
 				B4B091DC2176F950008776E5 /* LaunchScreen.storyboard */,
@@ -256,7 +256,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B4B091D62176F94E008776E5 /* ViewController.swift in Sources */,
+				B4B091D62176F94E008776E5 /* MostPopularViewController.swift in Sources */,
 				B4B091D42176F94E008776E5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
